@@ -8,9 +8,11 @@ const CartItem = ({ item: { imageUrl, price, name, calories, quantity } }) => (
     <div className="item-details">
       <span className="name">{name}</span>
       <span className="price">
-        {quantity} x ${price}
+        {quantity} x &#x20B9;{price}
       </span>
-      <span className="calories">{calories}</span>
+      <span className="calories">
+        {quantity} x {calories} kcal
+      </span>
     </div>
   </div>
 );
