@@ -7,7 +7,7 @@ import './collection-item.styles.scss';
 
 
 const CollectionItem = ({item, addItem}) => {
-    const {name, price, imageUrl} = item;
+    const {name, calories, price, imageUrl} = item;
     return (
       <div className="collection-item">
         <div
@@ -18,6 +18,7 @@ const CollectionItem = ({item, addItem}) => {
         />
         <div className="collection-footer">
           <span className="name"> {name} </span>
+          <span className="calories"> {calories} </span>
           <span className="price"> {price} </span>
         </div>
 
