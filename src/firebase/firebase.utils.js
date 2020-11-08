@@ -2,7 +2,6 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
 
-
 const FirebaseConfig = {
   apiKey: 'AIzaSyCFasgzk3PQraP_YVlSk2M8r0sdBdqMQpo',
   authDomain: 'hackout-food-buddy.firebaseapp.com',
