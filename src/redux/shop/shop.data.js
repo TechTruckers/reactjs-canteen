@@ -6,42 +6,42 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: "Brown Brims",
-        imageUrl: "https://i.ibb.co/ZYW3VTp/brown-brim.png",
+        name: "Gujarati Thali",
+        imageUrl: "https://images-ext-2.discordapp.net/external/jSLGDd3DyqRAxVseneBgs1jAUGMVhTnHJvsRZvASx18/https/post.healthline.com/wp-content/uploads/2020/07/thali-indian-732x549-thumbnail-732x549.jpg",
         calories: 200,
         price: 25
       },
       {
         id: 2,
-        name: "Blue Beanie",
-        imageUrl: "https://i.ibb.co/ypkgK0X/blue-beanie.png",
+        name: "Rajasthani Thali ",
+        imageUrl: "https://www.semrne.com/wp-content/uploads/2019/03/sabji-roti-daal-chawal.jpg",
         calories: 200,
         price: 18
       },
       {
         id: 3,
-        name: "Brown Cowboy",
-        imageUrl: "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
+        name: "Punjabi Thali",
+        imageUrl: "https://allaboutjaipur.com/wp-content/uploads/2019/03/fabhotels-Thali-and-More.jpg",
         calories: 200,
         price: 35
       },
       {
         id: 4,
-        name: "Grey Brim",
-        imageUrl: "https://i.ibb.co/RjBLWxB/grey-brim.png",
+        name: "South Indian",
+        imageUrl: "https://curlytales.com/wp-content/uploads/2018/11/ftr-img.jpg",
         calories: 200,
         price: 25
       },
       {
         id: 5,
-        name: "Green Beanie",
+        name: "Bengali",
         imageUrl: "https://i.ibb.co/YTjW3vF/green-beanie.png",
         calories: 200,
         price: 18
       },
       {
         id: 6,
-        name: "Palm Tree Cap",
+        name: "Half Thali",
         imageUrl: "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
         calories: 200,
         price: 14
@@ -76,29 +76,29 @@ const SHOP_DATA = [
     items: [
       {
         id: 10,
-        name: "Adidas NMD",
-        imageUrl: "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
+        name: "Burgers",
+        imageUrl: "https://www.seriouseats.com/recipes/images/2015/07/20150702-sous-vide-hamburger-anova-primary-1500x1125.jpg",
         calories: 200,
         price: 220
       },
       {
         id: 11,
-        name: "Adidas Yeezy",
-        imageUrl: "https://i.ibb.co/dJbG1cT/yeezy.png",
+        name: "Pizza",
+        imageUrl: "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1-500x500.jpg",
         calories: 200,
         price: 280
       },
       {
         id: 12,
-        name: "Black Converse",
-        imageUrl: "https://i.ibb.co/bPmVXyP/black-converse.png",
+        name: "Mix Bhel",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/2/20/Indian_cuisine-Chaat-Bhelpuri-03.jpg",
         calories: 200,
         price: 110
       },
       {
         id: 13,
-        name: "Nike White AirForce",
-        imageUrl: "https://i.ibb.co/1RcFPk0/white-nike-high-tops.png",
+        name: "Aloo Paratha",
+        imageUrl: "https://recipes.timesofindia.com/thumb/msid-53109843,width-1600,height-900/53109843.jpg",
         calories: 200,
         price: 160
       },
@@ -139,29 +139,29 @@ const SHOP_DATA = [
     items: [
       {
         id: 18,
-        name: "Black Jean Shearling",
-        imageUrl: "https://i.ibb.co/XzcwL5s/black-shearling.png",
+        name: "Malai Kofta",
+        imageUrl: "https://holycowvegan.net/wp-content/uploads/2020/01/vegan-malai-kofta-indian-cream-dumplings-tomato-onion-sauce-2-1.jpg",
         calories: 200,
         price: 125
       },
       {
         id: 19,
-        name: "Blue Jean Jacket",
-        imageUrl: "https://i.ibb.co/mJS6vz0/blue-jean-jacket.png",
+        name: "Masala Bhindi",
+        imageUrl: "https://www.cookwithmanali.com/wp-content/uploads/2014/04/Bhindi-Masala-500x500.jpg",
         calories: 200,
         price: 90
       },
       {
         id: 20,
-        name: "Grey Jean Jacket",
-        imageUrl: "https://i.ibb.co/N71k1ML/grey-jean-jacket.png",
+        name: "Mix Veg",
+        imageUrl: "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2010/06/mix-veg-recipe-2.jpg",
         calories: 200,
         price: 90
       },
       {
         id: 21,
-        name: "Brown Shearling",
-        imageUrl: "https://i.ibb.co/s96FpdP/brown-shearling.png",
+        name: "Paneer Butter Masala",
+        imageUrl: "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2010/06/mix-veg-recipe-2.jpg",
         calories: 200,
         price: 165
       },
@@ -181,29 +181,29 @@ const SHOP_DATA = [
     items: [
       {
         id: 23,
-        name: "Blue Tanktop",
-        imageUrl: "https://i.ibb.co/7CQVJNm/blue-tank.png",
+        name:"Butter Naan",
+        imageUrl: "https://www.jessicagavin.com/wp-content/uploads/2020/04/naan-bread-17-1200.jpg",
         calories: 200,
         price: 25
       },
       {
         id: 24,
-        name: "Floral Blouse",
-        imageUrl: "https://i.ibb.co/4W2DGKm/floral-blouse.png",
+        name: "Butter Roti",
+        imageUrl: "https://www.whiskaffair.com/wp-content/uploads/2020/03/Roti-1-3-500x500.jpg",
         calories: 200,
         price: 20
       },
       {
         id: 25,
-        name: "Floral Dress",
-        imageUrl: "https://i.ibb.co/KV18Ysr/floral-skirt.png",
+        name: "Parantha",
+        imageUrl: "https://ministryofcurry.com/wp-content/uploads/2018/10/Version-2.jpg",
         calories: 200,
         price: 80
       },
       {
         id: 26,
-        name: "Red Dots Dress",
-        imageUrl: "https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png",
+        name: "Tandoori Roti",
+        imageUrl: "https://www.whiskaffair.com/wp-content/uploads/2020/03/Roti-1-3-500x500.jpg",
         calories: 200,
         price: 80
       },
@@ -237,29 +237,29 @@ const SHOP_DATA = [
     items: [
       {
         id: 30,
-        name: "Camo Down Vest",
-        imageUrl: "https://i.ibb.co/xJS0T3Y/camo-vest.png",
+        name: "Dal Fry",
+        imageUrl: "https://www.cookwithmanali.com/wp-content/uploads/2019/07/Dal-Fry-Recipe-500x500.jpg",
         calories: 200,
         price: 325
       },
       {
         id: 31,
-        name: "Floral T-shirt",
-        imageUrl: "https://i.ibb.co/qMQ75QZ/floral-shirt.png",
+        name: "Jeera Rice",
+        imageUrl: "https://myfoodstory.com/wp-content/uploads/2018/07/Perfect-Jeera-Rice-Indian-Cumin-Rice-4.jpg",
         calories: 200,
         price: 20
       },
       {
         id: 32,
-        name: "Black & White Longsleeve",
-        imageUrl: "https://i.ibb.co/55z32tw/long-sleeve.png",
+        name: "Moong Dal",
+        imageUrl: "https://www.cookwithmanali.com/wp-content/uploads/2014/09/Moong-Dal-500x500.jpg",
         calories: 200,
         price: 25
       },
       {
         id: 33,
-        name: "Pink T-shirt",
-        imageUrl: "https://i.ibb.co/RvwnBL8/pink-shirt.png",
+        name: "Plain Rice",
+        imageUrl: "https://5.imimg.com/data5/AQ/SL/MY-55761382/plain-boiled-rice-500x500.png",
         calories: 200,
         price: 25
       },
@@ -272,6 +272,55 @@ const SHOP_DATA = [
       },
       {
         id: 35,
+        name: "Burgundy T-shirt",
+        imageUrl: "https://i.ibb.co/mh3VM1f/polka-dot-shirt.png",
+        calories: 200,
+        price: 25
+      }
+    ]
+  },
+  {
+    id: 6,
+    title: "BEVERAGES AND SNACKS",
+    routeName: "bevacks",
+    items: [
+      {
+        id: 36,
+        name: "Buttermilk",
+        imageUrl: "https://yummyindiankitchen.com/wp-content/uploads/2016/04/how-to-make-masala-chaas-recipe.jpg",
+        calories: 200,
+        price: 325
+      },
+      {
+        id: 37,
+        name: "Cold Drink",
+        imageUrl: "https://img1.cgtrader.com/items/967980/fdd49d68f0/soft-drinks-cans-3d-model-animated-ma-mb.jpg",
+        calories: 200,
+        price: 20
+      },
+      {
+        id: 38,
+        name: "Lemon Juice",
+        imageUrl: "https://i1.wp.com/www.rasoimenu.com/wp-content/uploads/2019/08/Nimbu-Pani-Recipe.jpg?fit=1920%2C1080&ssl=1",
+        calories: 200,
+        price: 25
+      },
+      {
+        id: 39,
+        name: "Frooti",
+        imageUrl: "https://images-na.ssl-images-amazon.com/images/I/71jQMW9E-WL._SL1080_.jpg",
+        calories: 200,
+        price: 25
+      },
+      {
+        id: 40,
+        name: "Jean Long Sleeve",
+        imageUrl: "https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png",
+        calories: 200,
+        price: 40
+      },
+      {
+        id: 41,
         name: "Burgundy T-shirt",
         imageUrl: "https://i.ibb.co/mh3VM1f/polka-dot-shirt.png",
         calories: 200,
