@@ -8,8 +8,9 @@
   align-items: center;
 
   .image-container {
-    width: 23%;
-    padding-right: 15px;
+    width: 16%;
+    padding-right: 10px;
+    margin-right: 16px;
 
     img {
       width: 100%;
@@ -17,9 +18,15 @@
     }
   }
   .name,
-  .quantity,
-  .price {
-    width: 23%;
+  .quantity {
+    width: 20%;
+  }
+
+
+  .price,
+  .calories {
+    width: 16%;
+    margin-left: 10px;
   }
 
   .quantity {
