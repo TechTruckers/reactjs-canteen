@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Note:[Link](https://github.com/TechTruckers/money-mitra) to Money-Mitra(Parent App)
+### Note: [Link](https://github.com/TechTruckers/money-mitra) to Khaana Khata(Parent App)
 
 ## Available Scripts
 
