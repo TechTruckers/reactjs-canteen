@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Note:[Link](https://github.com/TechTruckers/reactjs-canteen) to Money-Mitra(Parent App)
+
 ## Available Scripts
 
 In the project directory, you can run:
